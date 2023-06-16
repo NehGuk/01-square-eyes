@@ -52,7 +52,6 @@ Feel free to suggest improvements and open a pull request if you want to get inv
 
 ## License
 
-- Copyright (c) 2022 Henri Kugler
 - [MIT License](/LICENSE)
 
 ## Acknowledgments
